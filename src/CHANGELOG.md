@@ -1,5 +1,11 @@
 # viem
 
+## 2.21.48
+
+### Patch Changes
+
+- [#2948](https://github.com/wevm/viem/pull/2948) [`dbd72a4eab890903216e085dd52d2438e20aa1fc`](https://github.com/wevm/viem/commit/dbd72a4eab890903216e085dd52d2438e20aa1fc) Thanks [@nikola-bozin-txfusion](https://github.com/nikola-bozin-txfusion)! - Added `parseEip712Transaction` util function in ZKsync extension.
+
 ## 2.21.47
 
 ### Patch Changes
